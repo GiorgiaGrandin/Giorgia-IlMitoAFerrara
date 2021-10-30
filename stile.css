@@ -1,0 +1,349 @@
+h1{
+	font-family:helvetica neue;
+	font-size: 65px;
+	}
+
+#tit {
+	background-color: #c1c1d7;
+	font-family: Georgia, serif;
+	text-align: center;
+}
+
+h2{
+	text-align: center;
+	margin-top: 20px;
+}
+
+
+h3 {
+	text-align: center;
+}
+
+
+.carousel-inner {
+	width: 600px; height: 380px;
+}
+
+.dropdown {
+	margin-left: 20px;
+}
+
+#card-left {
+	background-color: white;
+	margin-top: 40px;
+	width: 280px;
+	border: 2px solid black;
+  border-radius: 5px;}
+
+footer {
+	margin-top: 20px;
+	background-color: white;
+}
+
+#list {
+	margin-top: 60px;
+	margin-left: 40px;
+	margin-right: 40px;
+}
+
+#list2 {
+	margin-top: 25px;
+	margin-left: 40px;
+	margin-right: 40px;
+}
+
+#pagine {
+	margin-top: 20px;
+	margin-right: 40px;
+}
+
+#copy {
+	margin-left: 30px;
+	margin-top: 40px;
+
+}
+
+
+
+#center {
+	background-color: #efeff5;
+}
+
+#item {
+	text-align: center;
+	margin-bottom: 60px;
+}
+
+#titolo_opera {
+	text-align: center;
+	margin-top: 50px;
+	margin-bottom: 30px;
+	background-color: white;
+}
+
+#paginaovidio {
+	text-align: center;
+	
+}
+
+#titolo_ovidio {
+	text-align: center;
+	margin-top: 50px;
+	margin-bottom: 20px;
+}
+
+#text1 {
+	text-align: left;
+	margin-top: 2px;
+	margin-bottom: 2px;
+	
+	font-family: arial;
+	font-size: 15px;
+}
+
+#text2 {
+	
+	text-align: left;
+	font-family: arial;
+	font-size: 15px;
+}
+
+#text3 {
+	text-align: left;
+	font-family: arial;
+	font-size: 15px;
+}
+
+#titolo_text {
+	text-align: center;
+	margin-top: 50px;
+}
+
+
+#carouselExampleIndicators {
+	width: 600px;
+	height: 300px;
+	margin-top: 200px;
+	margin-left: 32px;
+
+}
+
+#naviga {
+	margin-left: 40px;
+}
+
+.name {
+	color: #993300;
+	font-weight: bold;
+}
+
+.title {
+	font-style: oblique;
+	font-weight: bold;
+}
+
+.info {
+	font-weight: bold;
+	color: #293d3d;
+}
+
+.place {
+	font-style: oblique;
+	color: ;
+}
+
+.t-name {
+	font-weight: bold;
+	color: #e68a00;
+	
+}
+
+.frase {
+	font-weight: bold;
+	text-decoration: underline;
+	color: #cc3300;
+
+}
+
+
+
+#progetto {
+	margin-top: 40px;
+	margin-left: 25px;	
+	border: 2px solid black;
+  border-radius: 5px;
+}
+
+#alfonso {
+	font-size: 15px;
+}
+
+#fonti {
+	text-align: center;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	background-color: white;
+}
+
+#analisi {
+	text-align: center;
+	margin-top: 40px;
+	margin-bottom: 30px;
+	background-color: white;
+}
+
+#collezione {
+	text-align: center;
+	
+	margin-top: 30px;
+}
+
+
+#saggi-title {
+	margin-top: 50px;
+	background-color: white;
+}
+
+#saggi {
+	margin-top: 30px;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+#saggio1 {
+	margin-top: 30px;
+	margin-left: 60px;
+	
+}
+
+#saggio2 {
+	margin-top: 30px;
+	margin-left: 60px;
+}
+
+#ordina {
+	margin-left: 40px;
+}
+
+#tabella {
+	margin-top: 100px;
+	text-align: center;
+}
+
+
+#latin {
+	text-align: left;
+	margin-top: 2px;
+	margin-bottom: 2px;
+	
+	font-family: arial;
+	font-size: 15px;
+}
+
+
+#cardlatino {
+	margin-top: 60px;
+	margin-left: 180px;
+}
+
+#cardtrad {
+	margin-top: 60px;
+	margin-left: 90px;
+}
+
+#wiki {
+	width: 1000px;
+	margin-left: 200px;
+	height: 600px;
+	margin-top: 40px;
+}
+
+#test-comp {
+	text-align: center;
+	margin-top: 40px;
+	background-color: white;
+}
+
+
+#tiztit {
+		text-align: center;
+	margin-top: 40px;
+	background-color: white;
+}
+
+#tiziano {
+	margin-top: 50px;
+	width: 400px;
+	margin-left: 50px;
+}
+
+#tabtiz {
+	margin-top: 50px;
+	margin-left: -50px;
+}
+
+#titmondo {
+	text-align: center;
+	margin-top: 40px;
+	background-color: white;
+}
+
+#mondo {
+	width: 1000px;
+	margin-left: 220px;
+	margin-top: 40px;
+}
+
+
+#autorità {
+	font-size: 15px;
+	font-weight: 400;
+	color: #52527a;
+	line-height: 0.7;
+}
+
+
+
+#didascaliatiz {
+	margin-top: 20px;
+	margin-left: 50px;
+	line-height: 0.7;
+}
+
+#amorini {
+	width: 368px;
+}
+
+#baccanale {
+	width: 368px;
+}
+
+#titaltro {
+	margin-top: 40px;
+	background-color: white;
+	text-align: center;
+}
+
+#card1 {
+	width: 800px;
+	margin-top: 20px;
+	margin-left: 300px;
+}
+
+
+a:link, a:visited {
+	text-decoration: none;
+	color: black;
+}
+
+a:hover, a:active {
+	text-decoration: underline;
+	color: blue;
+}
+
+
+#link{
+	color: #52527a;
+}
+
+
