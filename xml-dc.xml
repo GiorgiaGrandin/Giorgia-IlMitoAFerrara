@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mp:metadata xmlns:mp="http://example.org/MyProject/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xsi:schemaLocation="http://example.org/MyProject/ http://example.org/MyProject/schema.xsd">
+	<author xml:id="Giorgia Grandin">
+			<dc:title>Bacco e Arianna</dc:title>
+			<dc:creator xsi:type="dcterms:VIAF" mp:ref="https://viaf.org/viaf/109266837">Tiziano Vecellio</dc:creator>
+			<dc:subject>Incontro tra Bacco e Arianna</dc:subject>
+			<dc:description>dipinto che rappresenta l'abbandono di Arianna da parte di Teseo che riparte dall'isola con la sua nave, e il successivo innamoramento di Bacco per Arianna</dc:description>
+			<dc:date>1520-1523</dc:date>
+			<dc:type>dipinto</dc:type>
+			<dc:format>olio su tela</dc:format>
+			<dc:format>176,5 x 191 cm</dc:format>
+			<dc:identifier xsi:type="dcterms:URI">https://giorgiagrandin.github.io/Giorgia-IlMitoAFerrara/</dc:identifier>
+			<dc:source>https://www.nationalgallery.org.uk/paintings/titian-bacchus-and-ariadne</dc:source>
+			<dc:rights>National Gallery di Londra</dc:rights>
+	</author>
+</mp:metadata>

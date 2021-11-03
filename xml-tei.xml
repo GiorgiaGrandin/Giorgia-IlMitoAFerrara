@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+		<fileDesc>
+			<titleStmt>
+				<title>Metamorfosi, Libro VIII</title>
+				<author>Ovidio</author>
+				<respStmt>
+					<name xml:id="GG">Giorgia Grandin</name>
+					<resp>digitalizzazione</resp>
+					<resp>metadatazione</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<availability>libera</availability>
+				<licence><ref target="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution ShareAlike 3.0 License</ref></licence>
+				<date>13 ottobre 2021</date>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Ovidio, Metamorfosi, Einaudi, Torino, 2015</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language ident="lat">latino</language>
+			</langUsage>
+			<textClass>
+				<keywords xmlns="http://www.tei-c.org/ns/1.0">
+					<list>
+						<item>Poema</item>
+						<item>Ovidio</item>
+						<item>Metamorfosi</item>
+						<item>Libro VIII</item>
+						<item>Latino</item>
+						<item>Bacco</item>
+						<item>Arianna</item>
+						<item>Teseo</item>
+					</list>
+				</keywords>
+			</textClass>
+		</profileDesc>
+
+	</teiHeader>
+	
+	<lg xmlns="http://www.tei-c.org/ns/1.0" type="poem" met="--+ | --+ | --+ | --+ | --+ | --+">
+		<teiText>
+			<body>
+				<l> Vota Iovi Minos tautorum corpora centum</l>
+				<l> solvit, ut egressus ratibus Curetida terram</l>
+				<l> contigit, et spoliis decorata est regia fissi.</l>
+				<l> Creverat opprobrium generis, foedumque patebat</l>
+				<l> matris adulterium monstri novitate biformis;</l>
+				<l> destinat huni Minos thalami remover pudore</l>
+				<l> multiplicique domo caecisque includere tectis.</l>
+				<l> Daedalus ingenio farrea celebérrimas artis</l>
+				<l> ponit opus, turbatque notas, et lumina flexu</l>
+				<l> ducit in errorem variarum ambage viarum.</l>
+				<l> Non secus ac liquidus Phrygiis Maeandrus in arvis</l>
+				<l> ludit et ambiguo lapsus refluitque fluitque</l>
+				<l> occurrensque sibi venturas adspicit undas</l>
+				<l> et nunc ad fontes, nunc ad mare versus apertum</l>
+				<l> incertas exercer aquas, ita Daedalus implet</l>
+				<l> innumeras errore vias, vinque ipse reverti</l>
+				<l> ad limen potuti: tanta est fallacia tecti.</l>
+				<l> Quo postquam geminam tauri iuvenisque figuram</l>
+				<l> Clausit, et Actaeo bis Paestum sanguine monstrum</l>
+				<l> tertia sors annis domuit repetita novennio,</l>
+				<l> utque ope virginea nullis iterarta priorum</l>
+				<l> ianua difficilis filo est inventa relitto,</l>
+				<l> protinus Aegides rapta Minoide Diam</l>
+				<l> vela dedit comitemque suam crudelis in illo</l>
+				<l> litore destituit. Desertae et multa querenti</l>
+				<l> amplexus et opem Liber tulit, utque perenni</l>
+				<l> sidere clara foret, sumtam de fronte corona</l>
+				<l> inmisit cielo. Tenues volat illa per auras,</l>
+				<l> dumque volat, gemmae nitidos vertuntur in ignes</l>
+				<l> consistuntque loco, specie remanente coronae,</l>
+				<l> qui medius Nixique genu est Anguemque tenentis.</l>
+			</body>
+		</teiText>
+	</lg>
+
+</TEI>
